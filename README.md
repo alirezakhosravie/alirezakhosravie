@@ -1,8 +1,6 @@
 
-
-<p align="center"><img width="80%" alt=" Hello, I'm **Alireza Khosravi**, a motivated **developer** from **Iran** :) src="./assets/gh-readme-header2.png" /></p>
-
-
+Hi there! 👋  
+I'm **Alireza Khosravi**, a motivated **developer** from **Iran** :)
 ## About Me
 - 🔭 I’m currently working on **Spring Boot** projects.  
 - 🌱 I’m also working on **Django** projects.  
