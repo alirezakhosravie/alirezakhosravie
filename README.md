@@ -1,6 +1,6 @@
 
 
-<p align="center"><a href="https://codeyad.com"><img width="80%" alt=" Hello, I'm **Alireza Khosravi**, a motivated **developer** from **Iran** :) src="./assets/gh-readme-header2.png" /></a></p>
+<p align="center"><img width="80%" alt=" Hello, I'm **Alireza Khosravi**, a motivated **developer** from **Iran** :) src="./assets/gh-readme-header2.png" /></p>
 
 
 ## About Me
