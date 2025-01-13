@@ -1,7 +1,8 @@
 
 
-Hi there! 👋  
-I'm **Alireza Khosravi**, a motivated **developer** from **Iran** :)
+<p align="center"><a href="https://codeyad.com"><img width="80%" alt=" Hello, I'm **Alireza Khosravi**, a motivated **developer** from **Iran** :) src="./assets/gh-readme-header2.png" /></a></p>
+
+
 ## About Me
 - 🔭 I’m currently working on **Spring Boot** projects.  
 - 🌱 I’m also working on **Django** projects.  
