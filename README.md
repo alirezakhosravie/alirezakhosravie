@@ -7,4 +7,4 @@ I'm **Alireza Khosravi**, a motivated **developer** from **Iran** :)
 - 🌱 I’m also working on **Django** projects.  
 - 💖 I love developing and will continue doing it for the rest of my life.
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/alireza-khosravi-47b94b346/) for collaboration or just to chat!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/alireza-khosravi-ak/) for collaboration or just to chat!
